@@ -1,0 +1,4 @@
+R CMD BATCH TransactionsMain.R Outfile1
+R CMD BATCH CarCrashMainUH.R Outfile2
+R CMD BATCH CarCrashMainUD.R Outfile3
+R CMD BATCH CarCrashTrivariate_main.R Outfile4
