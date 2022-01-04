@@ -4,9 +4,9 @@ Measuring and Quantifying Uncertainty in Volatility Spillovers: A Bayesian Appro
 
 ## Citation
 
-This is supplementary code for the 2021 paper:
+This is supplementary code for the 2022 paper:
 
-@article{shapovalova2021spillovers,
+@article{shapovalova2022spillovers,
 
   title={Measuring and Quantifying Uncertainty in Volatility Spillovers: A Bayesian Approach},
   
@@ -21,9 +21,7 @@ This is supplementary code for the 2021 paper:
 
 run_MCMC.R -- runs one of the represenative examples from the paper; SMC part depends on the Fortran code -- likfort2020.f90 (see utils); you might have to recompile it to run on you machine to run the code (check Makefile). 
 
-## Computing spillovers measures
+## Computing spillover measures
 
 spillovers_summary.R -- computes spillovers summaries based on the MCMC samples.
 
-
-# MSVMspillovers
