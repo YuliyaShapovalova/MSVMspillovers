@@ -14,7 +14,7 @@ This is supplementary code for the 2022 paper:
   
   journal={arxiv},
   
-  year={2021}
+  year={2022}
 }
 
 ## Running MCMC
